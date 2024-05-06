@@ -1,0 +1,217 @@
+
+#logo{
+  text-align: center;
+}
+
+
+
+.na:hover{
+
+ border: 0px solid black;
+ border-radius:   5px;
+   cursor: pointer;
+   background-color: rgb(255, 192, 109);
+   transition: 0.9s;
+   
+   /* text-transform: uppercase; */
+
+  
+   /* transform: scale(1.2); */
+   /* box-shadow: 0px 0px 5px #fe21a2,
+   0px 0px 30px #fe21a2,
+   0px 0px 90px #fe21a2, */
+ 
+   
+}#nav{
+  max-width: 100%;
+  min-width: 20%;
+    display: inline-block;
+    display: flex;
+    gap: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+   background-color: rgb(255, 255, 255);
+   justify-content: center;
+   box-shadow:  11px 11px 10px #000000
+           
+  
+}
+body{
+  background-color: antiquewhite;
+}
+.imgggg{
+   text-align: center;
+   padding: 10px;
+   display: flex;
+   justify-content: center;
+  flex-wrap: wrap;
+}
+/* a:hover{
+  font-size: 20px;
+} */
+a{
+    text-decoration: none;
+    color: rgb(59, 70, 200);  
+}
+div{
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.ls{
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  display: inline-block;
+  justify-content: center;
+}
+.imghov{
+  padding: 10px;
+  display: flex;
+  display: inline-block;
+  justify-content: center;
+}
+.imghov:hover{
+  transition: transform 0.8s;
+  transform: scale(1.2); /* You can adjust the scale value for the desired zoom level */
+  margin: 0px;
+}
+.s{
+  display: flex;
+  display: inline-block;
+}
+.main{
+  height: 8px;
+  background-color: rgb(96, 160, 95);
+  border:none;
+  margin: 20px 0;
+  
+
+}
+#footer{
+  text-align: center;
+}
+.st{
+  display: inline-block;
+}
+.st:hover{
+  text-decoration: underline;
+  background-color: rgba(155, 144, 144, 0.84);
+}
+.cop{
+  text-align: center;
+}
+
+/* about.css */
+#abouth1{
+  padding: 30px;
+  font-weight: 500;
+  font-style: initial;
+}
+.abouthr{
+}
+.aboup{
+  padding: 10px;
+  font-style: italic;
+  display: inline-block;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: x-large;
+  
+}
+/* chennai style */
+#logooo{
+  padding: 30px;
+}
+
+  
+
+.par{
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  font-size: large;
+  font-style: italic;
+  
+ }
+ .he{
+  text-align: center;
+  font-weight: bolder;
+ }
+ .im{
+  text-align: center;
+  padding: 10px;
+ }
+ .anch{
+  text-decoration: none;
+ }
+ .anch:hover{
+
+text-decoration: underline;
+
+
+
+
+ }
+ .pa{
+  display: inline-flex;
+  justify-content: space-evenly;
+  padding-left: 350px;
+  padding-right: 250px;
+  
+  
+ }
+ .paaa{
+  display: inline-flex;
+  justify-content: center;
+  padding-left: 350px;
+  padding-right: 250px;
+ }
+ .footer{
+  text-decoration: none;
+  width: 100%;
+  height: 50px;
+  background-color: rgb(107, 107, 240);
+ }
+ .pl{
+  padding: 10px;
+ }
+
+ /* room */
+ .imh{
+  text-align: center;
+ }
+ .mmm{
+  padding-left: 20px;
+ }
+ .l{
+  padding-top: 20px;
+margin-top: 20px;
+  width: 100%;
+  height: 60px;
+  background-color:cadetblue;
+  border: 2px solid black;
+
+ }
+ .x{
+  margin-top: 20px;
+text-align: center;
+background-color: black;
+  
+ }
+ .x:hover{
+  color: black;
+  transition: transform 0.3s ease-in-out;
+  transform: scale(1.2);
+ }
+ .input{
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+  margin-right: 300px;
+  margin-left: 300px;
+  padding: 12px;
+
+ }
